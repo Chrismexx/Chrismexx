@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Chrismexx
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Chrismexx/Chrismexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
